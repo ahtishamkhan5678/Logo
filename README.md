@@ -25,9 +25,10 @@ The logo is a restful Web Services API for E-Commerce Apps Based on Spring Boot.
 ## E_R Diagram
 ![E_R Diagram](https://user-images.githubusercontent.com/100846744/204119210-f2e32c88-8776-42c1-917a-eb86f2b4d574.png)
 
-## Swagger 
+## Swagger_Credential
+-[Swagger.UI.API.Documentation.Online.Shopping.App (1).pdf](https://github.com/ahtishamkhan5678/Logo/files/10097525/Swagger.UI.API.Documentation.Online.Shopping.App.1.pdf)
 
-🚀 The Swagger link to check rest Api :-> http://localhost:8088/swagger-ui/
+- 🚀 The Swagger link to check rest Api :-> http://localhost:8088/swagger-ui/
 ---
 
 
