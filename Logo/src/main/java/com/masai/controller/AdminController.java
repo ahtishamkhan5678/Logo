@@ -84,18 +84,6 @@ public class AdminController {
 		return pService.addProduct(product,key);
 	}
 	
-//	@GetMapping("/getAllProducts")
-//	public List<Product> getAllProducts(@RequestParam String key)
-//	{
-//		return pService.getProductList(key);
-//	}
-//	
-//	@GetMapping("/getProduct/{name}")
-//	public Product getProductByName(@PathVariable String name,@RequestParam String key)
-//	{
-//		return pService.getProductByName(name,key);
-//	}
-	
 	@PutMapping("/product")
 	public Product updateProductHandler(@Valid @RequestBody Product product,@RequestParam String key)
 	{
