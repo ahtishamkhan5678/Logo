@@ -1,3 +1,6 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+
+
 # Logo :- REST API for Online Shopping Application
  <img align="center" width="100%" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2022/09/d101d54c-13c5-4758-9358-da3c789a571c.gif?auto=format&q=60&fit=max&w=930" height="440px">
  
@@ -26,10 +29,21 @@ The logo is a restful Web Services API for E-Commerce Apps Based on Spring Boot.
 ![E_R Diagram](https://user-images.githubusercontent.com/100846744/204119210-f2e32c88-8776-42c1-917a-eb86f2b4d574.png)
 
 ## Swagger_Credential
--[Swagger.UI.API.Documentation.Online.Shopping.App (1).pdf](https://github.com/ahtishamkhan5678/Logo/files/10097525/Swagger.UI.API.Documentation.Online.Shopping.App.1.pdf)
 
 - 🚀 The Swagger link to check rest Api :-> http://localhost:8088/swagger-ui/
----
+
+## Documentation
+
+- [Swagger.UI.API.Documentation.Online.Shopping.App.pdf](https://github.com/ahtishamkhan5678/Logo/files/10097543/Swagger.UI.API.Documentation.Online.Shopping.App.pdf)
 
 
-<img  align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF5733&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Project!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 70%;">
+
+<div align="center" >
+ 
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Thanks!+For+Visiting+On+My+Logo;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;)](https://git.io/typing-svg)
+ 
+ </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
