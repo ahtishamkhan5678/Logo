@@ -14,3 +14,10 @@ The logo is a restful Web Services API for E-Commerce Apps Based on Spring Boot.
 - MySQL
 - Postman
 - Swagger UI
+
+## Modules:
+- Login Module
+- Customer Module
+-	Product Module
+-	Order Module
+-	Cart Module
